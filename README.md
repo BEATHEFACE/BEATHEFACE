@@ -1,5 +1,6 @@
-### 👋 Welcome, friends 👋
+### 👋 Welcome to the storage of my practice, friends 👋
 
+### My name is Daniil. I'm beginner SQA. 
 ### I will post here some of my practice stuff 💾
 
 ## 📄 Documentation examples 📄
