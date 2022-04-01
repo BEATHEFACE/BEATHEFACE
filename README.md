@@ -1,7 +1,7 @@
 ### 👋 Welcome to the storage of my practice, friends 👋
 
-### My name is Daniil. I'm beginner SQA. 
-### I will post here some of my practice stuff 💾
+My name is Daniil. I'm beginner SQA. 
+I will post here some of my practice stuff 💾
 
 ## 📄 Documentation examples 📄
 - Bug-reports [My examples](https://docs.google.com/spreadsheets/d/1vWrteiH9dPyqQvk9VLjZO6Yn5p7N5eH1F7HBJmg9N5k/edit?usp=sharing)
