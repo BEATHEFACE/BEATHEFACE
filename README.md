@@ -1,6 +1,6 @@
 ### 👋 Welcome to the storage of my practice, friends 👋
 
-My name is Daniil. I'm beginner SQA. 
+My name is Daniil. I'm Software Quality Assurance. 
 I will post here some of my practice stuff 💾
 
 ## 📄 Documentation examples 📄
